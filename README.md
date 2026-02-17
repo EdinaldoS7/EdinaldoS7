@@ -2,7 +2,7 @@
 
 **`Desenvolvedor de Software`**
 
-Me chamo Edinaldo da Silva Santana, tenho 22 anos e sempre fui apaixonado por tecnologia. Atualmente estou cursando Ciência da Computação na Universidade Cruzeiro do Sul, onde estou no segundo semestre.
+Me chamo Edinaldo da Silva Santana, tenho 22 anos e sempre fui apaixonado por tecnologia. Atualmente estou cursando Ciência da Computação na Universidade Cruzeiro do Sul, onde estou no terceiro semestre.
 
 <p align="left">
     <a href="https://github.com/EdinaldoS7?tab=repositories&sort=stargazers">
